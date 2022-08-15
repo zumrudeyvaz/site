@@ -1,0 +1,144 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+body{
+	width:960px;
+	margin:0 auto;
+}
+.section1{
+	background-image:url('https://kartinkin.net/uploads/posts/2022-03/thumbs/1647043650_2-kartinkin-net-p-vodolaz-kartinki-2.jpg');
+	background-size:cover;
+	background-position:center;
+	width:100%;
+	height:650px;
+	color:#fff;
+}
+.logo{
+	background-image:url('emb.svg');
+	width:162px;
+	height:75px;
+	margin-left:750px;
+}
+.section1 h1{
+	font-size:66px;
+	margin-top:200px;
+	width:700px;
+}
+.blue{
+	background-color:#14475F;
+	color:#fff;
+	width:960px;
+	height:80px;
+	margin-top:70px;
+	padding-top:20px;
+	text-align:center;
+}
+.section2 h2{
+	color:#14475F;
+	margin-top:50px;
+	font-size:36px;
+}
+.section2 .p1{
+	font-size:24px;
+	margin-top:20px;
+}
+.section2 .p2{
+	font-size:24px;
+	margin-top:20px;
+}
+.circle{
+	background-image:url('Rectangle.svg');
+	color:#fff;
+	width:40px;
+	height:40px;
+	margin:20px;
+}
+.one{
+	background-color:#1085A9;
+	width:300px;
+	height:300px;
+	color:#fff;
+	margin:20px;
+	
+}
+.explore{
+	margin-top:40px;
+	font-size:24px;
+	padding:10px;
+}
+.explore1{
+	position:relative;
+	top:20px;
+	width:100px;
+	height:40px;
+	padding:8px;
+}
+button{
+	background-color:transparent;
+	padding:2px;
+	border:2px solid #fff;
+	border-radius:20px;
+	color:#fff;
+}
+span{
+	font-style:italic;
+}
+.blocks{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+}
+.big1{
+	position:relative;
+	left:200px;
+	top:-60px;
+	margin:6px;
+	font-size:126px;
+	color:#2891B2;
+}
+.left{
+	width:200px;
+	height:100px;
+	margin:20px;
+}
+.left p, h3{
+	margin:6px;
+}
+.right{
+	width:200px;
+	height:100px;
+	margin:20px;
+}
+.right p, h3{
+	margin:6px;
+}
+a{
+	text-decoration:none;
+	color:#000;
+}
+.background2{
+	display:flex;
+	justify-content:space-around;
+}
+.background2{
+	background-color:#87C5E0;
+	width:640px;
+	margin-left:160px;
+}
+.background3{
+	background-color:#14475F;
+	width:640px;
+	margin-left:160px;
+}
+.background3 p{
+	color:#fff;
+	text-align:center;
+	font-size:18px;
+	padding:4px;
+}
+.foot{
+	text-align:center;
+	padding:8px;
+}
